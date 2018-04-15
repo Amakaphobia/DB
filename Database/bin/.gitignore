@@ -1,9 +1,9 @@
-/connection/
-/dbmodel/
 /exceptions/
 /factories/
 /replacers/
 /statement/
 /subAssemblers/
 /superAssemblers/
+/connection/
+/dbmodel/
 /test/
