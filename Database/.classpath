@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tools"/>
+	<classpathentry kind="src" path="BackEnd"/>
+	<classpathentry kind="src" path="BetterFactories"/>
+	<classpathentry kind="src" path="ConnectionModell"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
