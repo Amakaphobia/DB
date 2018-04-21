@@ -1,4 +1,7 @@
 /connection/
 /dbmodel/
-/superAssemblers/
-/test/
+/exceptions/
+/factories/
+/replacers/
+/statement/
+/subAssemblers/

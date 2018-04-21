@@ -1,0 +1,21 @@
+Red:
+	investigate javas sql package
+		implementing connection class
+		Statement interface?
+			maybe factory.build() : java.sql.statement?
+			maybe implement Connection and preparedstmt interfaces
+				and delegate stuff to other generated Connections?
+	implement scan table statement with given schema name
+		mysql
+		hsqldb
+		oracledb
+		look up mysql file in documents
+Yellow:
+	Add Multiple SelctionTables/Columns/Whereclauses at once
+		vararg?
+	Keywords to implement
+		join
+		exists
+		not ? dafuq secondary keyword
+Green:
+	API
